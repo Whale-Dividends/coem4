@@ -1,0 +1,274 @@
+.allif{
+  width: 350px;
+    height: 400px;
+    
+    margin-left: -10px;
+    margin-top: 30px;
+    padding: 50px ;
+    font-size: 30px;
+    padding-top: -300px;
+    padding-left: 40px;
+
+    color: rgb(0, 0, 0);
+
+  box-shadow: 2px 10px 10px 20px gray;
+  font-style: italic;
+  color: blue;
+
+}
+.allcourse1{
+    width: 410px;
+    height: 500px;
+    
+    padding: 10px;
+    font-size: 30px;
+    box-shadow: 2px 5px 10px 5px gray;
+    
+        
+}
+.sub{
+    margin-left: 170px;
+    margin-top: 50px;
+    background-color: blue;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 10px;
+    width: 100px;
+    font-size: 20px;
+    color: white;
+}
+.print{
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
+    background-color: blue;
+    margin-left: 150px;
+    border-radius: 20px;
+    padding: 8px;
+   
+}
+.desss {
+    background-color: rgb(186, 248, 62);
+    color: white;
+    margin-top: -8px;
+    width: 530px;
+    height: 50px;
+    padding: 10px;
+    margin-left: -9px;
+   
+   
+}
+.im19{
+    margin-top: 200px;
+    width: 200px;
+}
+.m22{
+    width: 30000px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+}
+.allcourse1{
+   margin-top: 10px;
+   width: 380px;
+   margin-left: 40px;
+}
+
+.allif{
+    margin-left: 45px;
+    width: 300px;
+}
+.dessen{
+    margin-top: 4px;
+}
+.print{
+    margin-left:200px ;
+    margin-top: -30px;
+  
+}
+.sub{
+    margin-top: 5px;
+}
+.print{
+    margin-top: 20px;
+    margin-left: 170px;
+
+}
+.home1,.home2{
+    text-decoration: none;
+    color: black;
+    text-transform:uppercase;
+    font-size: 20px;
+}
+.home1:hover{
+    background-color: blue;
+    border-radius: 2px;
+    color: white;
+}
+.hp{
+    margin-top: 10px;
+}
+.home2:hover{
+    background-color: blue;
+        border-radius: 2px;
+        color: white;
+}
+.loginr{
+    text-decoration: none;
+    font-size: 30px;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 600;
+   margin-left: 160px;
+}
+.loginform{
+    display: block;
+    width: 250px;
+    height: 30px;
+    margin: 30px;
+    border-radius: 10px;
+
+}
+.loginf{
+    border: 2px solid rgb(0, 0, 0);
+width: 300px;
+padding: 20px;
+border-radius: 20px;
+margin: 150px auto;
+
+}
+.submitall{
+    margin-left: 250px;
+    margin-top: 20px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    border: 2px solid black;
+    font-size: 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.alldepart{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin: 10px;
+    margin-left: 50px;
+    text-transform: uppercase;
+    
+   
+}
+ul{
+    border: 2px solid blanchedalmond;
+    width: 320px;
+    padding: 50px;
+    
+}
+.decontainer{
+    margin: 100px auto;
+    width: 400px;
+}
+.de{
+    margin-left: 200px ;
+
+}
+.pass{
+    width: 200px;
+    height: 150px;
+    border: 2px solid black;
+    border-radius: 10px;
+
+    margin: 10px auto;
+}
+.files{
+   margin-left: 130px;
+
+}
+.up{
+    margin-left: 110px;
+}
+.form3{
+    display: block;
+    width: 300px;
+    margin: auto;
+    margin-top: 200px;
+    box-sizing: border-box;
+    box-shadow: 2px 1px 20px 10px;
+    height: 300px;
+    padding-top: 60px;
+    border-radius: 5px;
+}
+.jo{
+    margin: 10px;
+    width: 200px;
+    height: 20px;
+    margin-left: 40px;
+    margin-top: 20px;
+    cursor: pointer;
+   
+
+}
+#submit{
+    margin-left: 100px;
+    margin-top: 15px;
+    margin-left:160px;
+    cursor: pointer;
+    width: 90px;
+    background-color: red;
+    color: white;
+    border: red;
+    height: 40px;
+    border-radius: 5px;
+}
+@media screen and (min-width:600px) {
+    .allif{
+        display: flex;
+        margin-left: 1000px;
+        margin-top: -600px;
+        display: block;
+        height: 500px;
+        width: 500px;
+    }
+    .allcourse1{
+        margin-left: 200px;
+        height: 600px;
+        width: 500px;
+    }
+    .print1{
+        margin-left: 1090px;
+        margin-top: -40px;
+    }
+    .desss{
+        width: 1758px;
+        background-color: rgb(154, 249, 31);
+
+    }
+   
+   
+    .home1{
+        margin-top: -500px;
+        margin-left: 1700px;
+        
+    }
+       .re{
+        margin-top: -600px;
+       }
+       #submit{
+        margin-top: 120px;
+        margin-left: 180px;
+       }
+}
+#refresh{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: black;
+    margin-top: 30px;
+
+}
+.dess{
+    width: 537px;
+}
+.print1{
+    margin-top: -40px;
+}

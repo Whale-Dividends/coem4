@@ -1,0 +1,813 @@
+body{
+    margin: 0;
+    padding: 0; 
+    background-color: rgb(255, 254, 254);
+    height: 200px;
+ 
+    
+}
+.des{
+    width: 439px;
+    background-color: chartreuse;
+    margin-top: -0px;
+    height: 50px;
+   
+    padding-bottom: 15px;
+    font-size: 50px;
+    text-transform: uppercase;color: white;
+    
+}
+.top{
+    margin-top: -470px;
+    margin-left: 400px;
+    display: block;
+}
+.top1{
+    width: 20px;
+    margin-top: -25px;
+  
+}
+.top3{
+    margin-top: 200px;
+    width: 500px;
+}
+.top2{
+    width: 50px;
+    margin-left: 400px;
+    margin-top: 20px;
+    cursor: pointer;
+    
+}
+.top4,#image{
+    width:600px ;
+    margin-top:500px;
+    box-shadow: 5px 2px 2px 5px gray;
+  height: 500px;
+  margin-left: 10px;
+  
+}
+li{
+    list-style: none;
+    text-decoration: none;
+    display: non;
+}
+a{
+    text-decoration: none;
+    
+}
+ul{
+    width: 20px;
+    height: 200px;
+     
+     margin-top: -50px;
+    
+    
+}
+.alldiv{
+    width: 100px;
+    height: 100px;
+z-index: 2;
+background-color: rgb(0, 0, 0);
+position: relative
+;
+
+padding: 20px;
+margin-left: 390px;
+border-radius: 10px;
+margin-top: -290px;
+position: fixed;
+
+}
+li{
+   margin-top: -20px;
+   margin: 20px;
+    margin-left: -17 zcdfd px;
+   
+    color: white;
+}
+.h{
+    opacity:1 ;
+    color: white;
+}
+.alldiv{
+    display: block;
+    margin-top: px;
+}
+ul{
+    margin: 20px;
+    margin-top: -20px;
+    margin-left: -40px;
+    opacity: 1;
+    position: static;
+}
+.ul1{
+    position: static;
+    margin-top: 500px;
+    
+}
+
+
+input{
+    display: block;
+    margin: 10px;
+    margin: 20px auto;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border: 2px solid black;
+}
+
+form{
+    width: 300px;
+    height: 210px;
+    box-shadow: 5px 10px px 10px gray;
+    box-sizing: border-box;margin-left: 70px;
+    border: 2px solid rgb(149, 143, 143);
+    padding: 20px;
+    border-radius: 10px;
+    margin-top: 80px;
+
+    
+}
+.submit{
+    width: 100px;
+    border-radius: 20px;
+    background-color: rgb(166, 255, 0);
+    color: white;
+    border: none;
+}
+.check{
+ margin-left: 40px;
+    font-size: 20px;
+    margin-top: -4px;
+}
+.mef{
+    background-color: rgb(0, 255, 128);
+    border-radius: 5px;
+}
+.submit1{
+    width: 100px;
+        border-radius: 20px;
+        background-color: rgb(0, 217, 255);
+        color: white;
+        border: none;
+
+}
+.sele{
+    margin: 50px;
+    margin-left: 150px;
+    margin-top: -50px;
+   
+   
+ 
+}
+
+.do{
+
+background-color: red;
+}
+.register{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    margin-left: 150px;
+    background-color: chartreuse;
+    color: white;
+    
+}
+
+.home{
+    margin-left: 37px;
+    width: 6px;
+    padding-right: -80px;
+    
+}
+
+.delta{
+    color: white;
+    margin-left: 60px;
+    
+}
+.imag{
+    width: 200px;
+height: 200px;
+
+
+}
+img{
+    width: 200px;
+}
+.ima1{
+    width: 300px;
+    height: 200px;
+   
+}
+
+#image{
+    width: 480px;
+    margin-top: 23px;
+    position: static;
+}
+
+.display{
+    width: 2000px;
+    height: 2000px;
+    background-color: red;
+}
+
+.ul1{
+    margin-top: -300px;
+    margin-left: -10px;
+  
+}
+.top11,#image{
+    width: 300px;
+    margin-top: 40px; 
+   margin-left: 14px;
+    height: 600px;
+    margin-top: 16px;  
+}
+.top4{
+width: 475px;
+margin-left: -30px;
+margin-top:-7px;
+height: 400px;
+}
+.top11,.top4{
+    margin-top: -13px;
+    margin-left: -41px;
+    width: 30px;
+}
+.form15{
+    border: none;
+    margin-top: -20px;
+}
+.form15{
+    border: 2px solid gray;
+    margin-top: -50px;
+    width: 350px;
+    height: 200px;
+    margin-left: 40px;
+    box-shadow: 5px 10px 40px 10px;
+}
+.sub{
+    width: 100px;
+    background-color: red;
+    color: white;
+    border: none;
+}
+input{
+    width: 250px;
+    border: 2px solid gray;
+}
+.top17{
+    width: 50px;
+    margin-left: 380px;
+    margin-top: 10px;
+    
+}
+.top18{
+    margin-top: px;
+    width: 439px;
+    height: 50px;
+    background-color: rgb(148, 234, 44);
+    margin-left: 2px;
+}
+
+.top42{
+    width: 20px;
+    height: 200000px
+}
+.des1{
+    width: 440px;
+        background-color: chartreuse;
+        margin-top: -0px;
+        height: 50px;
+    margin-left: 2px;
+        padding-bottom: 15px;
+        font-size: 50px;
+        color: white;
+        
+
+}
+.top41,#image{
+    width: 430px;
+    height: 400px;
+    margin-left: 50px;
+   
+}
+.form15{
+    border: 2px solid gray;
+        margin-top: 5px;
+        width: 350px;
+        height: 200px;
+        margin-left: 80px;
+        box-shadow: 5px 10px 40px 10px;
+}
+
+.des2{
+    width: 439px;
+        background-color: chartreuse;
+        margin-top: -39px;
+        height: 50px;
+        padding-top: 30px;
+    
+        padding-bottom: 15px;
+        font-size: 50px;
+        text-transform: uppercase;
+        color: white;
+
+}
+.form1{
+    margin-top: -70px;
+}
+.top2{
+    margin-top: -50px;
+}
+.nceli,li{
+    color: black;
+    width: 200px;
+    margin: 5px;
+    padding: 5px;
+   
+   
+}
+a{
+    color: rgb(255, 253, 253);
+    font-size: 20px;
+    font-weight: 700;
+    background-color: none;
+
+    
+}
+.nce{
+    color: black;
+        width: 200px;
+        margin: 5px;
+        background-color: rgb(0, 0, 0);
+        height: 150px;
+        padding-right: 40px;
+        padding-top: 20px;
+        border-radius: 5px;
+        color: white;
+        margin-top: -850px;
+        z-index: 1;
+        position: relative;
+        margin-left: 180px;
+        padding-left: 30px;
+}
+.hcd1,.a1{
+    color: black;
+    margin-left: 20px;
+    padding-left: 20px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.a1,li{
+    margin: 10px;
+    margin-top: 2px;
+   
+}
+.a2,li{
+    margin-left: 20px;
+   padding:2px;
+    padding-top: 5px;
+}
+
+.hcd1{
+    width: 150px;
+    height: 200px;
+    background-color: rgb(0, 0, 0);
+    border-radius: 10px;
+    margin-top: -400px;
+    z-index: 2;
+    position: relative;
+    margin-left: 260px;
+    
+}
+
+
+.top28{
+    width: 200px;
+    margin-top: -2px;
+    margin-left: 3px;
+    height: 400px;
+    position: fixed;
+    position: static;
+   
+}
+
+.top29{
+    width: 40px; 
+    margin-left: 390px;
+    margin-top: 10px; 
+}
+li,a{
+  margin-left: -5px;
+}
+.top77{
+    width: 50px;
+    margin-top: 10px;
+    margin-left: 380px;
+}
+.top76{
+    width: 439px;
+    height: 50px;
+    background-color: rgb(102, 182, 36);
+    margin-top: -33px;
+    
+}
+.im19{
+    width: 439px;
+    height:350px;
+    margin-top: -1px;
+    margin-left: px;
+}
+.nce,li{
+    padding-left: 14px;
+}
+.top41,.top46{
+    margin-top: -14px;
+    margin-left: 10px;
+
+    
+    
+}
+.top11,#image{
+    width: 532px;
+    margin-left: -2px;
+    
+}
+.des{
+width: 537px;
+}
+.im19{
+    width: 440px;
+}
+.des2{
+width: 440px;
+}
+.top76{
+width: 440px;
+animation-name: joshua;
+animation-duration: 3s;
+animation-iteration-count: infinite;
+
+}
+.top77{
+   margin-left: 380px;
+}
+.nce{
+    margin-left: 230px;
+}
+.form1{
+    margin-left: 40px;
+}
+.img45,.top46{
+    width: 200px;
+    margin-left: 5px;
+}
+.des1{
+    width: 455px;
+    margin-left: -1px;
+}
+.top18{
+    width: 464px;
+    margin-left: -10px;
+}
+.top29{
+    margin-left: 409px;
+}
+.hcd1{
+    margin-left: 200px;
+    margin-top: -500px;
+    margin: auto;
+}
+.top2{
+    margin-left: 385px;
+    margin-top: 9px;
+}
+.dessing{
+    margin-top: 25px;
+    width: 535px;
+    height: 50px;
+    background-color: rgb(85, 218, 14);
+    animation-direction: alternate;
+    animation-delay: 2s;
+}
+.ncep{
+    margin-top:-900px ;
+    color: white;
+    margin-left: 190px;
+}
+@keyframes joshua{
+    0%{
+        background-color: red;
+     
+    }
+    66%{
+        background-color: rgb(202, 208, 23);
+    }
+    100%{
+        background-color: rgb(0, 0, 0);
+    }
+}
+
+.top77:hover{
+    box-shadow: 1px 5px 15px 2px blue;
+    box-sizing: border-box;
+}
+.ma{
+    color: white;
+    margin-top: 100px;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.ma1{
+    margin-top: 50px;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+body{
+    background-color: rgb(15, 246, 250);
+}
+.moso{
+    border-radius: 50%;
+    width: 50px;
+    margin-top: -200px;
+   
+}
+
+.moso1{
+    margin-top: -240px;
+    margin-left: 390px;
+}
+.form1{
+    margin-left: 5px;
+}
+.to{
+    margin-left: 20px;
+   
+}
+.to1{
+ width: 100px;
+ background-color: rgb(0, 0, 0);
+ margin-left: 150px;
+ padding-right: 20px;
+ border-radius: 20px;
+ 
+}
+.login{
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+@media screen and (min-width:650px) {
+
+ .des{
+    margin: auto;
+width: 1460px;
+ }
+ .dessing{
+    width: 1460px;
+ }
+.alldiv.ul1{
+    display: grid;
+    
+}
+.alldiv,a{
+    visibility: visible;
+    display: block;
+    margin-left: 650px;
+    margin-top: -130px;
+
+   
+
+}
+a{
+    margin: -1px;
+    margin-left: -615px;     
+}
+.alldiv{
+    margin-top: -0px;
+    margin-top: 40px;
+  
+}
+.ul1{
+        width: 200px;
+            height:
+            550px;
+            background-color: rgb(0, 0, 0);
+            position: absolute;
+            margin-left: 1400px;
+            margin-top: -900px;
+            position: fixed;
+            border-radius: 20px;
+           
+            border: 2px solid gray;
+            
+                
+            
+}
+
+.top2{
+    margin-left: 1000px;
+    display: none;
+}
+.form16{
+    display: flex;
+    margin-left: 0px;
+    margin-top: -1000px;
+    height: 20px;
+    max-height: 20px;
+    
+}
+.top11 {
+    margin-left: 600px;
+    margin-top: 20px;
+   
+}
+  #image {
+    width: 800px;
+    height:550px ;
+    margin-left: -100px;
+    box-shadow: 2px 2px 2px 10px rgb(255, 255, 255) ;
+    margin-top: 100px;
+  }
+.top4{
+    width: 3000px;
+}
+.to{
+    display: none;
+}
+body{
+    position: fixed;
+    background-color: whitesmoke;
+}
+.form15{
+    width: 300px;
+    height: 550px;
+    background-color: rgb(0, 0, 0);
+    margin-top: -58px;
+   
+}
+.in{
+    margin-top: 50px;
+    
+}
+.container1{
+    box-shadow: 2px 20px 50px 5px solid black;
+   width: 2000px;
+   background-color: rgb(43, 140, 80);
+   margin-top: -20px;
+   height: 1000px;
+}
+.des{
+    margin-left: -1px;
+}
+.dessing {
+    animation-name: homepage;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    animation-duration: 4s;
+}
+
+@keyframes homepage {
+    0% {
+        background-color: rgb(5, 5, 5);
+    }
+    33%{
+        background-color: rgb(17, 37, 192);
+    }
+    66%{
+        background-color: darkgoldenrod;
+    }
+    100%{
+        background-color: rgb(255, 0, 0);
+    }
+
+
+}
+
+
+}
+.hcd1{
+    margin-top: -340px;
+    margin-left:280px;   
+}
+@media screen and (min-width:600px) {
+.h1,.login{
+    color: rgb(255, 255, 255);
+    visibility: visible;
+    margin: 5px;
+    margin-left: -200px;
+    width: 200px;
+}
+.container2{
+    width: 2000px;
+   display: flex;
+   background-color: red;
+}
+
+.allnce{
+    width: 200px;
+    height: 500px;
+    background-color: black;
+    margin-left: 1300px;
+    margin-top:320px;
+    box-shadow: 2px 2px 2px 10px rgb(221, 218, 218);
+}
+.ch{
+    margin-left: -40px;
+}
+.im19{
+    width: 700px;
+    height: 500px;
+    margin-left: 550px;
+    margin-top: 20px;
+    box-shadow: 2px 2px 2px  10px rgb(221, 218, 218);
+}
+.bo{
+    position: absolute;
+}
+.allform{
+    margin-left: 150px;
+    margin-top: -500px;
+    box-shadow: 2px 2px 2px 10px rgb(221, 218, 218);
+    width: 50px;
+    height: 500px;
+    padding-right: 320px;
+    padding-top: 8px;
+   
+    
+   
+}
+.im20{
+    margin-left: 520px;
+    margin-top: 100px;
+}
+.form2{
+    margin-left: 35px;
+    margin-top: 100px;
+}
+.mef{
+    margin-left: 35px;
+
+}
+.top76{
+    width: 1454px;
+}
+.des2{
+    background-color: rgb(128, 242, 35);
+    color: rgb(255, 255, 255);
+    width:1454px;
+    margin-top: -25px;
+}
+.top77{
+    display: none;
+}
+  
+.dessing{
+    width: 1778px;
+}
+.des{
+    width: 1778px;
+}
+    
+}
+.top2{
+    margin-left: 480px;
+}
+.to1 {
+    margin-left: 200px;
+}
+.des2{
+    width: 536px;
+}
+.top76{
+    width: 537px;
+    margin-top: -40px;
+}
+.top77{
+    margin-left: 480px;
+}
+.im19{
+    margin-left: 40px;
+    margin-top: 10px;
+    box-shadow: 2px 5px 2px 5px whitesmoke;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
